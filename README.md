@@ -21,7 +21,7 @@ A full MERN authentication system where  users can  authenticate and reset there
 ## Skills & Technologies
 - Languages: Java, Python, JavaScript, PHP
 - Web Development: React,Next.js, Node.js, Express.js
-- Databases: PostgreSql,MongoDB,MySql
+- Databases: PostgreSql,  MongoDB, MySql
 - Machine Learning: TensorFlow, PyTorch, Pandas,Numpy, Scikit-Learn
 - Tools: Jupyter, Git, Google Colab, VS Code, IntelliJ, Android Studio
 - Other: Deep Learning, Natural Language Processing, Computer Vision
