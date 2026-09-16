@@ -3,8 +3,13 @@
                
 ## About Me
 - Pursuing Bsc Computer Science at The University of The Gambia (UTG)
-- Experienced Web developer 
+- Experienced Full Stack Developer
+- Passionate about Data Science and Artificial Intelligence
 - Aspiring to research on Deepfake Image Detection using CNN + Vision Transformer
+- I love breaking complex problems and turning them to into practical solutions
+- Am constantly exploring new technoligies and strenghtening my development skills
+- I enjoy designing APIs, authentication systems, databases, and reliable server-side applications.
+- I'm always willing to learn, experiment, and adapt to new technologies and approaches.
  
 
 ## Featured Projects
@@ -19,9 +24,9 @@ A full MERN authentication system where  users can  authenticate and reset there
 
 
 ## Skills & Technologies
-- Languages: Java, Python, JavaScript, PHP
+- Languages: Java, Python, JavaScript,TypeScript
 - Web Development: Spring Boot, React, Next.js, Node.js, Express.js
-- Databases: PostgreSql,  MongoDB, MySql
+- Databases: PostgreSQL,  MongoDB, MySQL
 - Machine Learning: TensorFlow, PyTorch, Pandas,Numpy, Scikit-Learn
 - Tools: Jupyter, Git, Google Colab, VS Code, IntelliJ, Android Studio
 - Other: Deep Learning, Natural Language Processing, Computer Vision
