@@ -20,7 +20,7 @@ A full MERN authentication system where  users can  authenticate and reset there
 
 ## Skills & Technologies
 - Languages: Java, Python, JavaScript, PHP
-- Web Development: React,Next.js,Spring Boot Node.js, Express.js
+- Web Development:Spring Boot,React,Next.js,Node.js, Express.js
 - Databases: PostgreSql,  MongoDB, MySql
 - Machine Learning: TensorFlow, PyTorch, Pandas,Numpy, Scikit-Learn
 - Tools: Jupyter, Git, Google Colab, VS Code, IntelliJ, Android Studio
